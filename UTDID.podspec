@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "5.0"
   s.ios.deployment_target = "5.0"
 
-  s.source       = { :http => "https://github.com/macji/UTDID/raw/master/Products/1.0.0/UTDID.framework.zip"}
+  s.source       = { :http => "https://raw.githubusercontent.com/macji/UTDID/master/Products/1.0.0/UTDID.framework.zip"}
   s.preserve_paths = "UTDID.framework/*"
 
   s.vendored_frameworks = "UTDID.framework"
