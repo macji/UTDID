@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "UTDID for Ali"
   s.description  = <<-DESC
-                   UTDID
+                   UTDID for Ali，只是一个依赖
                    DESC
   s.homepage     = "https://wukong.laiwang.com"
   s.license      = { :type => "MIT", :text => "阿里悟空 © 2014. See http://m.laiwang.com/market/laiwang/wukong-serviceagreement.php" }
